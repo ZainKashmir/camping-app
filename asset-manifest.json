@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/camping-app/static/css/main.e47d8a33.css",
+    "main.js": "/camping-app/static/js/main.31c73c12.js",
+    "static/media/shopping-bag.svg": "/camping-app/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "index.html": "/camping-app/index.html",
+    "main.e47d8a33.css.map": "/camping-app/static/css/main.e47d8a33.css.map",
+    "main.31c73c12.js.map": "/camping-app/static/js/main.31c73c12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e47d8a33.css",
+    "static/js/main.31c73c12.js"
+  ]
+}
